@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+}
+.container-country {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+}
+h1 {
+  text-align: center;
+}
+img {
+  width: 100%;
+  height: 150px;
+}
